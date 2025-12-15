@@ -1,0 +1,10 @@
+{
+  "num_samples": 2000,
+  "validity": 0.95,
+  "uniqueness_on_valid": 1.0,
+  "novelty_on_unique_valid": 0.9773684210526316,
+  "diversity_est": 0.8882035591138103,
+  "num_valid": 1900,
+  "num_unique_valid": 1900,
+  "train_set_size": 899873
+}
